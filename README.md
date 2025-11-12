@@ -5,6 +5,7 @@ shivk202vapm@gmail.com
 
 # LaxmiTraders-BillingApp
 
+App Link: https://drive.google.com/file/d/1sgQdeAzDWy4MkM7hq699XmVCBif6Fdiq/view?usp=sharing
 
 An **offline Android billing application** designed for wholesale grocery shops.  
 Built with **Java** in **Android Studio**, it enables fast, professional, and internet-free billing.
